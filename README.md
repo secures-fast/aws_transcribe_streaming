@@ -1,3 +1,15 @@
+> ## このフォークについて
+> 
+> このリポジトリは [javer/aws_transcribe_streaming](https://github.com/javer/aws_transcribe_streaming) のフォークです。
+> 
+> 元のパッケージが依存しているライブラリのバージョンが古く、  
+> Flutter プロジェクト内で他のパッケージと依存関係の競合が発生したため、  
+> 一部の依存パッケージを最新のバージョンに更新する目的でフォークしました。
+> 
+> このフォークは社内・プロジェクト内での利用を想定しており、公式リポジトリへの PR 予定はありません。
+> 元のREADMEは以下にそのまま残しています。
+
+
 AWS Transcribe Streaming client for producing real-time transcriptions for your media content using HTTP/2.
 
 ## Getting started
